@@ -35,3 +35,7 @@ Feedforward neural networks • LSTM • Bidirectional LSTM • early stopping �
 - [Dhyey Thummar](https://www.linkedin.com/in/dhyey-thummar-006682203/)
 - [Dwip Dalal](https://www.linkedin.com/in/dwip-dalal-a7a440190/)
 - [Shruhrid Banthia](https://www.linkedin.com/in/shruhrid-banthia-b9aa01203/)
+
+## Update History
+
+- final-code-v2.ipynb contains the most recent code with a slight increase in accuracy.
