@@ -30,12 +30,12 @@ The dataset contains tab and | separated .txt files with phrases from the Rotten
 
 Feedforward neural networks • LSTM • Bidirectional LSTM • early stopping • tokenization • padding • integrated stacking (meta learner&#39;s neural network) • word embeddings
 
-## Author Information
+## Author Information:
 
 - [Dhyey Thummar](https://www.linkedin.com/in/dhyey-thummar-006682203/)
 - [Dwip Dalal](https://www.linkedin.com/in/dwip-dalal-a7a440190/)
 - [Shruhrid Banthia](https://www.linkedin.com/in/shruhrid-banthia-b9aa01203/)
 
-## Update History
+## Update History:
 
 - final-code-v2.ipynb contains the most recent code with a slight increase in accuracy.
